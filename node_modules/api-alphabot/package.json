@@ -1,0 +1,32 @@
+{
+  "name": "api-alphabot",
+  "version": "1.0.5",
+  "description": "Mengtes doang",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "request": "^2.88.2",
+    "qs": "^6.10.1"
+  },
+  "keywords": [
+    "alphabot-api",
+    "igstalk",
+    "bot-whatsapp",
+    "zeeoneofc",
+    "tiktok-downloader"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeeoneofc/zeeoneofc.git"
+  },
+  "author": "Hexagon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zeeoneofc/zeeoneofc/issues"
+  },
+  "homepage": "https://github.com/zeeoneofc/zeeoneofc#readme"
+}

@@ -1,0 +1,1 @@
+## Ngetes doang sih, izin ya creator hxz api  gw ambil sebagian scrape nya
