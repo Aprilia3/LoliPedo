@@ -1,1 +1,1 @@
-worker : npm i ffmpeg && npm i @adiwajshing/baileys@latest && node haruka
+worker : npm i ffmpeg && node haruka
